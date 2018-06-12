@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flight Planner</string>
+    <string name="radio_one_way">One way</string>
+    <string name="radio_round_trip">Round trip</string>
+    <string name="departure">Departure</string>
+    <string name="return_back">Return</string>
+    <string name="travellers">Travellers</string>
+    <string name="adult_detail">Adults(12 yrs+)</string>
+    <string name="search_flight">Search Flight</string>
+    <string name="pay">Pay using Air Pay</string>
+</resources>

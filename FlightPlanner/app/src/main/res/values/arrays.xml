@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fromLocation">
+        <item>KATHMANDU</item>
+        <item>BHAIRAHAWA</item>
+        <item>BHARATPUR</item>
+        <item>CHITWAN</item>
+        <item>HETAUDA</item>
+    </string-array>
+    <string-array name="toLocation">
+        <item>POKHARA</item>
+        <item>BHADRAPUR</item>
+        <item>BHARATPUR</item>
+        <item>BIRATNAGAR</item>
+        <item>JHAPA</item>
+    </string-array>
+    <string-array name="adult_numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
