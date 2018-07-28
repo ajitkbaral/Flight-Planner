@@ -69,8 +69,8 @@ public class BookFlightActivity extends AppCompatActivity {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         dialog.dismiss();
-                        Toast.makeText(BookFlightActivity.this, "Your flight has been booked", Toast.LENGTH_LONG).show();
-                        Intent intent = new Intent(BookFlightActivity.this, MainActivity.class);
+                        //Toast.makeText(BookFlightActivity.this, "Your flight has been booked", Toast.LENGTH_LONG).show();
+                        Intent intent = new Intent(BookFlightActivity.this, BookedFlightActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP); // To clean up all activities
                         startActivity(intent);
                         finish();
